@@ -1,0 +1,1 @@
+This project is about predicting whether a customer will default on his/her loan or not. The dataset used for this project was downloaded from kaggle https://www.kaggle.com/datasets/wordsforthewise/lending-club/data
